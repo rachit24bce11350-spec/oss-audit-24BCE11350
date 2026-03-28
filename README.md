@@ -32,7 +32,7 @@ This project is an audit of VLC Media Player focusing on:
 - project_script4.sh
 - project_script5.sh
 - screenshots/
-- vityarthiOSS_24BCE11350-RACHIT.pdf
+- vityarthiOSS_24BCE11350.pdf
 
 ---
 
